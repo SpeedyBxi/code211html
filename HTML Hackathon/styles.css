@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+body {
+    background-color: black;
+    color: #edfcd9;
+}
+
+.text {
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td, th {
+    background-color: rgb(11, 132, 67);
+    font-family: monospace;
+}
